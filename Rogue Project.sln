@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue Project", "Rogue Project.csproj", "{FF1726B5-35DE-49A0-E377-6D95DB20ADF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue Project.Editor", "Rogue Project.Editor.csproj", "{4E0B40CD-E6E2-A05A-2C48-0C36C5DD9B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1726B5-35DE-49A0-E377-6D95DB20ADF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1726B5-35DE-49A0-E377-6D95DB20ADF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1726B5-35DE-49A0-E377-6D95DB20ADF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1726B5-35DE-49A0-E377-6D95DB20ADF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0B40CD-E6E2-A05A-2C48-0C36C5DD9B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0B40CD-E6E2-A05A-2C48-0C36C5DD9B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0B40CD-E6E2-A05A-2C48-0C36C5DD9B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0B40CD-E6E2-A05A-2C48-0C36C5DD9B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
